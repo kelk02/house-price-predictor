@@ -13,7 +13,7 @@ To build an end-to-end ML workflow that enables predictive analysis on housing d
 # 🚀 How to Run
 1. Clone this repository.
 2. Install dependencies: `pip install -r requirements.txt`
-3. Open `house_price_ml.ipynb` in Jupyter Notebook.
+3. Open `notebooks/house_price_ml.ipynb` in Jupyter Notebook
 4. Run all cells.
 
 # 🛠️ Process
@@ -41,6 +41,7 @@ To build an end-to-end ML workflow that enables predictive analysis on housing d
 - Deploy as a web app using Streamlit.
 
 # 📄 Files
-- `house_price_ml.ipynb`: Full analysis code.
-- `housing.csv`: Dataset.
-- `requirements.txt`: Python dependencies.
+- `notebooks/house_price_ml.ipynb` - Full analysis notebook
+- `data/housing.csv` - Dataset
+- `requirements.txt` - Python dependencies
+- `.gitignore` - Git ignore rules
